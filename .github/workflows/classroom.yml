@@ -160,6 +160,7 @@ jobs:
         command: java M01
         input: |
           ---
+          ---
         expected-output: ''
         comparison-method: exact
         timeout: 1
